@@ -3,4 +3,4 @@
 # with any `stages:` you add later.
 
 include:
-  - component: $CI_SERVER_FQDN/bluestack/utils/bluestack-git-hygiene-checker/git-hygiene@v1.4.0
+  - component: $CI_SERVER_FQDN/bluestack/utils/bluestack-git-hygiene-checker/git-hygiene@v1.4.1
